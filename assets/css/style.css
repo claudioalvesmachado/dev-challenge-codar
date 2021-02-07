@@ -193,7 +193,7 @@ form input[type="tel"] {
 }
 
 
-/* AVALIÇÕES */
+/* AVALIAÇÕES */
 
 .avaliacoes {
     padding-top: 15%;
@@ -239,7 +239,7 @@ article h5 {
     width: 80%;
 }
 
-
+/* RODAPÉ */
 footer {
     display: flex;
     justify-content: space-evenly;
